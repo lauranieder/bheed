@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: 02b260c2079584ce9a2f8774702b4154
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CHAR1_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1958
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1958
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1958
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1958
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1809
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1809
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1809
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1809
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1659
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1659
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1659
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1659
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1508
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1508
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1508
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1508
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1358
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1358
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1358
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1358
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1208
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1208
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1208
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1208
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1058
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1058
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1058
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 908
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 908
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 908
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 758
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 758
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 758
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 608
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 608
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 608
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 458
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 458
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 458
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 308
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 308
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 308
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 159
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 159
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CHAR1_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 159
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
